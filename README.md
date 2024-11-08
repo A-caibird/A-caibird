@@ -5,10 +5,11 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Full-Stack Development** and **Machine Learning**
-- 💼 Working as a **[Your Job Title]**
-- 💬 Ask me about **Python, JavaScript, and Web Development**
-- 📫 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
-- 🌐 Visit my [portfolio website](https://your-website.com)
+- 💼 Working as a **[Full-Stack Development]**
+- 💬 Ask me about **Go, Rust， Python, JavaScript, and Web Development**
+- 📫 Reach me at **[durbannhawkey42@gmail.com](mailto:durbannhawkey42@gmail.com)**
+- 🌐 Visit my [portfolio website](https://a-caibird.github.io) 
+- 🌐 Visit my [knowledge base in notion](https://a-caibird.notion.site/Computer-Science-and-Technology-af7121ae42d048ba8d9e142d954d7529) 
 
 ## 🛠️ Skills & Tools
 
@@ -47,14 +48,13 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-caibird&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-caibird&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lian_5201314)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durbannhawkey42@gmail.com)
 
 ## 📝 Latest Blog Posts
 
@@ -69,7 +69,7 @@
 
 ## 🎮 Fun Fact
 
-![Fun Fact GIF](https://media.giphy.com/media/your-gif-id/giphy.gif)
+![Fun Fact GIF](https://giphy.com/gifs/firstwefeast-first-we-feast-hot-ones-donald-duck-PW2YmRu5TvbJ7ZJpQg)
 
 ---
 
