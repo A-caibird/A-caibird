@@ -56,20 +56,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lian_5201314)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durbannhawkey42@gmail.com)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Post Title 1](https://your-blog.com/post1)
-- [Post Title 2](https://your-blog.com/post2)
-- [Post Title 3](https://your-blog.com/post3)
-  <!-- BLOG-POST-LIST:END -->
-
-*Note: To automatically update the blog post list, you can use GitHub Actions to fetch your latest posts from your blog's RSS feed.*
-
 ## 🎮 Fun Fact
 
-![Fun Fact GIF](https://giphy.com/gifs/firstwefeast-first-we-feast-hot-ones-donald-duck-PW2YmRu5TvbJ7ZJpQg)
+![Fun Fact GIF](https://github.com/A-caibird/picx-images-hosting/raw/master/1.7i0ej00wyt.gif)
 
 ---
 
