@@ -56,10 +56,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lian_5201314)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durbannhawkey42@gmail.com)
 
-## 🎮 Fun Fact
-
-![Fun Fact GIF](https://github.com/A-caibird/picx-images-hosting/raw/master/1.7i0ej00wyt.gif)
-
+## 🎥 My Favorite Anime
+![领域展开](https://github.com/A-caibird/A-caibird/blob/main/71cc98bbec669c48d88b502ab58cd328~tplv-dy-resize-origshort-autoq-75-330.jpeg)
 ---
 
 *Thank you for visiting my profile! Feel free to reach out for collaboration or just a friendly chat.* 😊
